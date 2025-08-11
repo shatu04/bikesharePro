@@ -1,6 +1,6 @@
 
 
-## 🚲 US Bikeshare Data Analysis Tool – Submission Note
+## 🚲 US Bikeshare Data Analysis Tool 
 
 ### 🔍 Overview
 
